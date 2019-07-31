@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'efs_rest.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd99fr9crv5dqin',
-        'USER': 'pypgcdkurvxore',
-        'PASSWORD': 'd6e6a142b126a21888e323da87c5de412f1008c935d337d6839be57192d56577',
-        'HOST': 'ec2-50-16-225-96.compute-1.amazonaws.com',
+        'NAME': 'dfsggd9qvj3omg',
+        'USER': 'jdmdxsudoeetfr',
+        'PASSWORD': 'd59175fa5b27af6a109bf52231fe985727ff57c9afc7a603b8796550ece5467e',
+        'HOST': 'ec2-54-235-181-55.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
